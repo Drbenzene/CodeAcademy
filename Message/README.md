@@ -19,7 +19,7 @@ To run this project, install it locally using node
 ```
 
 $ cd ../folder 
-`$ node script.js 
+$ node script.js 
 
 ```
 
