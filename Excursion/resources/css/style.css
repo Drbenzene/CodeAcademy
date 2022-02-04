@@ -44,6 +44,6 @@ video {
 }
 
 .right{
-  float:right;
+  text-align: right;
   color: gray;
 }
