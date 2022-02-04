@@ -1,0 +1,33 @@
+.body-content {
+  margin: auto;
+  max-width: 600px;
+  padding:0px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+h2 {
+  color: red;
+}
+thead {
+  background-color: pink;
+}
+
+th {
+  display:table-cell;
+  vertical-align: inherit;
+}
+
+table {
+  width: 650px;
+  border: 2px red solid;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
+
+td{
+  border: 1px blue solid;
+}
